@@ -1,9 +1,9 @@
 # Caco-2-Permeability-Prediction-Model
-Machine Learning-based prediction model for Caco-2 Permeability prediction of drug candidates. 
+Machine Learning-based prediction model for Caco-2 Permeability prediction of drug candidates
 
 ## Introduction: ## 
 
-Welcome to our repository, here we provide machine learning model to efficiently predict the Caco-2 Permeability of target drug compounds in early stage drug discovery process.
+Welcome to our repository, here we provide machine learning model to efficiently predict the Caco-2 Permeability of target drug compounds in early stage drug discovery process
 
 ## Dependencies ##
 
@@ -33,6 +33,6 @@ Note: For the validation step, prepare a .csv file containing SMILES with biocla
 
 **Output:**
 
-Our model generates output in binary value (1 or 0), where 1 indicates compound to be permeable, while 0 indicates non-permeable.
+Our model generates output in binary value (1 or 0), where 1 indicates compound to be permeable, while 0 indicates non-permeable
 
-**Please ensure that all the necessary files (caco.pkl, data_preprocessing.py, scaler, features.txt, inputfile.csv) are kept in the working directory**
+**Please ensure that all the necessary files (caco.pkl, data_preprocessing.py, scaler, features.txt, input_file.csv, model.py) are kept in the working directory**
