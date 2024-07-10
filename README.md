@@ -1,9 +1,9 @@
 # Caco-2-Permeability-Prediction-Model
-Machine Learning-based prediction model for Caco-2 Permeability prediction of drug candidates
+Machine learning-based prediction model for Caco-2 Permeability prediction of drug candidates
 
 ## Introduction: ## 
 
-Welcome to our repository, here we provide machine learning model to efficiently predict the Caco-2 Permeability of target drug compounds in early stage drug discovery process
+Welcome to our repository, here we provide machine learning model to efficiently predict the Caco-2 permeability of target drug compounds in early stage drug discovery process
 
 ## Dependencies ##
 
