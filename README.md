@@ -1,7 +1,7 @@
 # Caco-2-Permeability-Prediction-Model
 Machine learning-based prediction model for Caco-2 Permeability prediction of drug candidates
 
-## Introduction: ## 
+## Introduction ## 
 
 Welcome to our repository, here we provide machine learning model to efficiently predict the Caco-2 permeability of target drug compounds in early stage drug discovery process. Caco-2 permeability refers to the ability of a drug compound to pass through Caco-2 cells, which are human epithelial colorectal adenocarcinoma cells. It provides essential insights into the oral absorption potential of drug candidates, helping to predict bioavailability, and optimize formulations.
 
