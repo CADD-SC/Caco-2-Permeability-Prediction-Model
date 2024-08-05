@@ -28,14 +28,14 @@ Additionally, the model provides the probability that each compound belongs to i
 **To run the prediction:**
 
 ```
-$ python model.py --prediction --file_name [filename] --model_path caco.pkl
+$ python model.py --prediction --file_name [filename] 
 ```
 <strong>Note:</strong> For the prediction step, prepare a .csv file containing SMILES without bioclass (e.g., test_set.csv)
 
 **To run the validation:**
 
 ```
-$ python model.py --validation --file_name [filename] --model_path caco.pkl
+$ python model.py --validation --file_name [filename] 
 ```
 <strong>Note:</strong> For the validation step, prepare a .csv file containing SMILES with bioclass (0 or 1) (e.g., valid_set.csv)
 
