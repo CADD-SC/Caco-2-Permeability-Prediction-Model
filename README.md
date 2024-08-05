@@ -41,6 +41,8 @@ $ python model.py --validation --file_name [filename] --model_path caco.pkl
 
 **Output:**
 
-Our model generates output in binary value (1 or 0), where 1 indicates compound to be permeable, while 0 indicates non-permeable
+Our model generates output in binary value (1 or 0), where 1 indicates compound to be permeable, while 0 indicates non-permeable.
+
+Additionally, the model also provides the probability that each compound belongs to its respective class.
 
 **Please ensure that all the necessary files (caco.pkl, data_preprocessing.py, scaler, features.txt, input_file.csv, model.py) are kept in the working directory**
